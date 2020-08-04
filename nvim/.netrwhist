@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/emmanuel/vroomly'
+let g:netrw_dirhist_7='/home/emmanuel/vroomly/docauto'
+let g:netrw_dirhist_6='/home/emmanuel/vroomly/docauto/docauto'
+let g:netrw_dirhist_5='/home/emmanuel/vroomly/docauto/docauto/workshopdirectory'
+let g:netrw_dirhist_4='/home/emmanuel/vroomly/docauto/docauto/workshopdirectory/migrations'
+let g:netrw_dirhist_3='/home/emmanuel/vroomly'
+let g:netrw_dirhist_2='/home/emmanuel/Repositories/tickets/website/frontend/src'
+let g:netrw_dirhist_1='/home/emmanuel/Repositories/tickets/website/frontend'

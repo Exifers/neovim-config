@@ -1,0 +1,11 @@
+source ~/.config/nvim/general/path.vim
+source ~/.config/nvim/general/settings.vim
+source ~/.config/nvim/keys/mappings.vim
+source ~/.config/nvim/vim-plug/plugins.vim
+source ~/.config/nvim/themes/onedark.vim
+source ~/.config/nvim/plug-config/coc.vim
+source ~/.config/nvim/plug-config/nvim-colorizer.vim
+source ~/.config/nvim/plug-config/airline.vim
+source ~/.config/nvim/plug-config/vim-sneak.vim
+source ~/.config/nvim/plug-config/codi.vim
+source ~/.config/nvim/plug-config/dots-fold.vim
